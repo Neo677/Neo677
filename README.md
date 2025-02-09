@@ -1,5 +1,8 @@
 <h2 align="left">Hi 👋! I'm a Student at 42 Nice</h2>
 
+![dune-sandworm](https://github.com/user-attachments/assets/217ba277-2c62-4b17-8e46-607dd0a24bd4)
+
+
                       I must not fear.
 
                       Fear is the mind-killer.
@@ -8,9 +11,7 @@
 
                       I will face my fear.
 
-                      I will permit it to pass over me and through me. ![dune-sandworm](https://github.com/user-attachments/assets/217ba277-2c62-4b17-8e46-607dd0a24bd4)
-
-
+                      I will permit it to pass over me and through me. 
 ###
 
 <br clear="both">
