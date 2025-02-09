@@ -1,6 +1,8 @@
 <h2 align="left">Hi 👋! I'm a Student at 42 Nice</h2>
 
 ![dune-sandworm](https://github.com/user-attachments/assets/217ba277-2c62-4b17-8e46-607dd0a24bd4)
+![dune-sandworm](https://github.com/user-attachments/assets/217ba277-2c62-4b17-8e46-607dd0a24bd4)
+
 
 
                       I must not fear.
