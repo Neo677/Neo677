@@ -1,4 +1,10 @@
-<h2 align="left">Hi 👋! My name is Thomas and I'm a Student at 42 Nice</h2>
+<h2 align="left">Hi 👋! I'm a Student at 42 Nice</h2>
+
+<h1 I must not fear.
+Fear is the mind-killer.
+Fear is the little-death that brings total obliteration.
+I will face my fear.
+I will permit it to pass over me and through me.</h2>
 
 ###
 
