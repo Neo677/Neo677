@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! I'm a Student at 42 Nice</h2>
 
-I must not fear.
+I must not fear. \n
 Fear is the mind-killer.
 Fear is the little-death that brings total obliteration.
 I will face my fear.
