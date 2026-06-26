@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /home/tbenelgorch/dev/Neo677 remote -v)",
+      "Bash(gh repo *)"
+    ]
+  }
+}
