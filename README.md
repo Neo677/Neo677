@@ -23,12 +23,16 @@ clean abstractions, and tooling that gets out of the way.
 
 | | |
 | :-- | :-- |
-| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
-| **Machine learning** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Systems & tooling** | ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Vim](https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white) |
+| **Machine learning** | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Web** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |
+| **Systems & tooling** | ![Linux](https://img.shields.io/badge/Linux-1A1A1A?style=flat-square&logo=linux&logoColor=FCC624) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
 
 ## Selected work
+
+**Latest Projects**
+
+- [**Camagru**](https://github.com/Neo677/Camagru) · *PHP* — Full-stack web application (2026).
 
 **Machine learning & AI**
 
@@ -56,25 +60,25 @@ clean abstractions, and tooling that gets out of the way.
 **Also in the workshop**
 
 - **parse_seLoger** · *Python* — Scraper for SeLoger real-estate listings.
-- **handlerOfLife** · **Space** · **skyrim** · **finish** · **ftour-coutner**
+- **handlerOfLife** · **Space** · **skyrim** · **finish** · **ftour-counter**
 
 ## GitHub
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Neo677&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0A84FF&text_color=F5F5F7&icon_color=BF5AF2&ring_color=0A84FF" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Neo677&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0071E3&text_color=1D1D1F&icon_color=AF52DE&ring_color=0071E3" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Neo677&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0A84FF&text_color=1D1D1F" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Neo677&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=0071E3&text_color=1D1D1D" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo677&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=F5F5F7" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo677&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0071E3&text_color=1D1D1F" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo677&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0A84FF&text_color=1D1D1F" />
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neo677&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=0071E3&text_color=1D1D1D" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Neo677&hide_border=true&background=00000000&ring=0A84FF&fire=FF375F&stroke=0A84FF&currStreakLabel=0A84FF&currStreakNum=F5F5F7&sideLabels=F5F5F7&sideNums=F5F5F7&dates=86868B" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo677&hide_border=true&background=00000000&ring=0071E3&fire=FF2D55&stroke=0071E3&currStreakLabel=0071E3&currStreakNum=1D1D1F&sideLabels=1D1D1F&sideNums=1D1D1F&dates=6E6E73" alt="GitHub streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Neo677&hide_border=true&background=00000000&ring=0A84FF&fire=FF375F&stroke=0A84FF&currStreakLabel=0A84FF&currStreakNum=1D1D1F" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neo677&hide_border=true&background=00000000&ring=0071E3&fire=FF2D55&stroke=0071E3&currStreakLabel=0071E3&currStreakNum=1D1D1F" />
   </picture>
 </p>
 
